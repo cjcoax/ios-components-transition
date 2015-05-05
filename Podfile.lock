@@ -1,0 +1,10 @@
+PODS:
+  - Tweaks (2.0.0)
+
+DEPENDENCIES:
+  - Tweaks
+
+SPEC CHECKSUMS:
+  Tweaks: 524fa47636cce3bf3a4d9156e980f10ae9480e81
+
+COCOAPODS: 0.36.1
